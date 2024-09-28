@@ -18,7 +18,7 @@
   - wallets
   - user actions
 
-Proof of work:
+## Proof of work
 
 *there are some errors that happended most likely because I was using dev Solana RPC for show - use production one\
 Click on the picture and watch the video
